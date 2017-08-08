@@ -38,16 +38,16 @@ function pickWinner(humanChoice, computerChoice) {
   // Fill this in!
   // Return either 'Human', 'Computer', or 'Tie'
   var winner = '';
-  if (humanChoice == computerChoice) {
+  if (humanChoice === computerChoice) {
     winner = 'Tie';
   }
-  else if (humanChoice == 'Rock' && computerChoice == 'Scissors') {
+  else if (humanChoice === 'Rock' && computerChoice === 'Scissors') {
     winner = 'Human';
   }
-  else if (humanChoice == 'Paper' && computerChoice == 'Rock') { 
+  else if (humanChoice === 'Paper' && computerChoice === 'Rock') { 
     winer = 'Human';
   }
-  else if (humanChoice == 'Scissors' && computerChoice == 'Paper') {
+  else if (humanChoice === 'Scissors' && computerChoice === 'Paper') {
     winner = 'Human';
   }
   else {
