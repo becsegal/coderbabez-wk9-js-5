@@ -120,18 +120,22 @@ Give that `x = 5` ...
 <td>&gt;</td>
 <td>greater than</td>
 <td>x &gt; 8</td>
+<td>false</td>
 <tr style="background-color:#ffffff;">
 <td>&lt;</td>
 <td>less than</td>
 <td>x &lt; 8</td>
+<td>true</td>
 <tr style="background-color:#f5f5f5;">
 <td>&gt;=</td>
 <td>greater than or equal to</td>
 <td>x &gt;= 8</td>
+<td>false</td>
 <tr style="background-color:#ffffff;">
 <td>&lt;=</td>
 <td>less than or equal to</td>
 <td>x &lt;= 8</td>
+<td>true</td>
 </tbody></table>
 
 
