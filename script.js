@@ -23,5 +23,5 @@ function computerChoice() {
 
 function pickWinner(humanChoice, computerChoice) {
   // Fill this in!
-  // Return either 'Human', 'Computer', or 'Tie'
+  // Return 'Human', 'Computer', or 'Tie'
 }
