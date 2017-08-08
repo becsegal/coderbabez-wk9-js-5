@@ -86,16 +86,21 @@ Give that `x = 5` ...
 <td rowspan="3">==</td>
 <td rowspan="3">equal to</td>
 <td>x == 8</td>
+<td>false</td>
 <tr style="background-color:#f5f5f5;">
 <td>x == 5</td>
+<td>true</td>
 <tr style="background-color:#f5f5f5;">
 <td>x == "5"</td>
+<td>true</td>
 <tr style="background-color:#ffffff;">
 <td rowspan="2">===</td>
 <td rowspan="2">equal value and equal type</td>
 <td>x === 5</td>
+<td>true</td>
 <tr style="background-color:#ffffff;">
 <td>x === "5"</td>
+<td>false</td>
 <tr style="background-color:#f5f5f5;">
 <td>!=</td>
 <td>not equal</td>
