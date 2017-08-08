@@ -105,6 +105,7 @@ Give that `x = 5` ...
 <td>!=</td>
 <td>not equal</td>
 <td>x != 8</td>
+<td>true</td>
 <tr style="background-color:#fff;">
 <td rowspan="3">!==</td>
 <td rowspan="3">not equal value or not equal type</td>
