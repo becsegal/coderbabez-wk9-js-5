@@ -1,7 +1,7 @@
 $("document").ready(function() {
 
   $('button').click(function() {
-    // Get the human's choice based on the event data
+    // Get the human's choice from 'this'
     // Get the computer's choice from the computerChoice function
 
     // Display the choices in the choiceDisplay section
