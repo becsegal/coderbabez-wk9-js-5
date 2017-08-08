@@ -206,7 +206,7 @@ $('button').click(function() {
 
 Rock, paper, scissors! The user picks rock, paper, or scissors. Compare that to the computer's choice and show who wins.
 
-Take a look at the live site:
+Take a look at the live site: https://becsegal.github.io/coderbabez-wk9-js-5/
 
 * What are the html elements?
 * How can you tell which button was clicked?
